@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-26T18:16:00.451Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="7CpwV-LRuP7-tBamK5PF" version="24.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-26T18:21:54.034Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="wilTBxCIzJXNvEklCZiZ" version="24.2.7" type="github">
   <diagram name="Page-1" id="-qYtvEomW0k4A3SLVBOT">
-    <mxGraphModel dx="1026" dy="684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1026" dy="1853" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -15,9 +15,6 @@
             <mxPoint x="190" y="190" as="sourcePoint" />
             <mxPoint x="300" y="190" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="VT7pETLHUvZkBAH2U3De-9" value="Use CloudSQL to query the Data that is needed for us" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="324" y="250" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VT7pETLHUvZkBAH2U3De-10" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.instance_with_cloudwatch;fillColor=#F58534;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="330" y="163" width="70" height="65" as="geometry" />
@@ -49,7 +46,7 @@
           <mxGeometry x="430" y="174" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HXekNUo-eZgtwN4-rnPV-10" value="Data Studio" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="305" y="468" width="90" height="30" as="geometry" />
+          <mxGeometry x="325" y="468" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HXekNUo-eZgtwN4-rnPV-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.017;entryY=0.817;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="VT7pETLHUvZkBAH2U3De-2" target="HXekNUo-eZgtwN4-rnPV-1">
           <mxGeometry relative="1" as="geometry">
@@ -69,8 +66,22 @@
         <mxCell id="HXekNUo-eZgtwN4-rnPV-15" value="Endpoints" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="700" y="174" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="HXekNUo-eZgtwN4-rnPV-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HXekNUo-eZgtwN4-rnPV-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190" y="-20" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="855" y="-20" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="HXekNUo-eZgtwN4-rnPV-16" value="Give it to Maxime" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="795" y="195" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HXekNUo-eZgtwN4-rnPV-18" value="cloud SQL" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="330" y="238" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HXekNUo-eZgtwN4-rnPV-19" value="Bigquery" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="202" y="150" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
