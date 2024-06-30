@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-29T21:58:13.225Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="mBXh148np5F-AWD2NFHY" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-30T22:40:52.091Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="__1UenW2419tx28UySYT" version="24.6.4" type="github">
   <diagram name="Page-1" id="-ndrM5JmogIgWDZhGkkG">
     <mxGraphModel dx="2327" dy="957" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -114,7 +114,7 @@
         <mxCell id="3MPT2Q4FQBJHjUVLw2gJ-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3MPT2Q4FQBJHjUVLw2gJ-36" target="3MPT2Q4FQBJHjUVLw2gJ-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3MPT2Q4FQBJHjUVLw2gJ-36" value="AcceptEventAction1" style="html=1;shape=mxgraph.infographic.ribbonSimple;notch1=20;notch2=0;align=center;verticalAlign=middle;fontSize=14;fontStyle=0;fillColor=#FFFFFF;flipH=0;spacingRight=0;spacingLeft=14;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="3MPT2Q4FQBJHjUVLw2gJ-36" value="Event Driven" style="html=1;shape=mxgraph.infographic.ribbonSimple;notch1=20;notch2=0;align=center;verticalAlign=middle;fontSize=14;fontStyle=0;fillColor=#FFFFFF;flipH=0;spacingRight=0;spacingLeft=14;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-110" y="240" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3MPT2Q4FQBJHjUVLw2gJ-39" value="Customers can manually insert&lt;div&gt;&amp;nbsp;the Initial Keywords&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
@@ -123,7 +123,7 @@
         <mxCell id="3MPT2Q4FQBJHjUVLw2gJ-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3MPT2Q4FQBJHjUVLw2gJ-41" target="3MPT2Q4FQBJHjUVLw2gJ-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3MPT2Q4FQBJHjUVLw2gJ-41" value="Perform Sentiment analysis and pick the top sentimens(comments + likes + Descriptopm)" style="ellipse;shape=doubleEllipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="3MPT2Q4FQBJHjUVLw2gJ-41" value="Perform Sentiment analysis and pick the top sentimens(comments + likes + others)" style="ellipse;shape=doubleEllipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="840" y="240" width="150" height="150" as="geometry" />
         </mxCell>
         <mxCell id="3MPT2Q4FQBJHjUVLw2gJ-44" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.bucket;fillColor=#E05243;gradientColor=none;" vertex="1" parent="1">
